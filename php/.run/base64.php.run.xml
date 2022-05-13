@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="base64.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="base" path="$PROJECT_DIR$/knowledge-base/php/base64.php">
+    <CommandLine parameters="-ddisplay_errors=on">
+      <PhpTestInterpreterSettings>
+        <option name="interpreterName" value="PHP8.0.13" />
+      </PhpTestInterpreterSettings>
+    </CommandLine>
+    <method v="2" />
+  </configuration>
+</component>
