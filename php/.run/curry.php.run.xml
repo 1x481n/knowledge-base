@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="curry.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="base" path="$PROJECT_DIR$/knowledge-base/php/curry.php">
+    <CommandLine parameters="-ddisplay_errors=on">
+      <PhpTestInterpreterSettings>
+        <option name="interpreterName" value="PHP8.1.0" />
+      </PhpTestInterpreterSettings>
+    </CommandLine>
+    <method v="2" />
+  </configuration>
+</component>
